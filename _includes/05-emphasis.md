@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+This Text is a test to understand about **BOLD** and _ITALICS_ text in markdown.
